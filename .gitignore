@@ -1,5 +1,8 @@
 .DS_Store
+.dart_tool/
+.idea/
+.packages
+.pub/
+coverage
+build/
 .fvm/
-coverage/
-.dart_tool
-pubspec.lock
